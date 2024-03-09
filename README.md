@@ -1,8 +1,9 @@
-# React + Vite
+# Weather Widget App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is build using React.js and Material UI
 
-Currently, two official plugins are available:
+Used OpenWeatherMap API to access the informaion about weather
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Follow This Link
+
+https://weather-widgett.netlify.app/
